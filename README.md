@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahib
-- 👀 I’m interested in Islamic Design Generative Art and NFT
+- 👀 I’m interested in Islamic Design, Generative Art and NFT
 - 🌱 I’m currently learning Python and Generative Art
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shahib@syukran.com
