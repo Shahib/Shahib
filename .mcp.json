@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "gemini": {
+      "type": "stdio",
+      "command": "bunx",
+      "args": ["-y", "@rlabs-inc/gemini-mcp"],
+      "env": {
+        "GEMINI_API_KEY": "${GEMINI_API_KEY}"
+      }
+    }
+  }
+}
