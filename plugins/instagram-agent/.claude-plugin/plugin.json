@@ -1,0 +1,9 @@
+{
+  "name": "instagram-agent",
+  "version": "1.0.0",
+  "description": "Instagram content skills (reels, captions, carousels, DMs, planning, audits, humanizing). Vendored from Jakeschincariol/instagram-agent-skill (MIT).",
+  "license": "MIT",
+  "author": {
+    "name": "Shahib"
+  }
+}

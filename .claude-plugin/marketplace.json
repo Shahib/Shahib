@@ -1,0 +1,17 @@
+{
+  "name": "shahib-plugins",
+  "description": "Shahib's Claude Code plugins",
+  "owner": {
+    "name": "Shahib"
+  },
+  "plugins": [
+    {
+      "name": "instagram-agent",
+      "source": "./plugins/instagram-agent",
+      "description": "Instagram content skills (ig-*), vendored from Jakeschincariol/instagram-agent-skill (MIT).",
+      "author": {
+        "name": "Shahib"
+      }
+    }
+  ]
+}

@@ -8,3 +8,11 @@
 Shahib/Shahib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Plugins
+
+- `instagram-agent`: Instagram content skills (`ig-*`), vendored from [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) (MIT).
+
+  ```
+  /plugin install instagram-agent --marketplace Shahib/Shahib
+  ```

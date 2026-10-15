@@ -1,0 +1,6 @@
+{
+  "extraKnownMarketplaces": {
+    "shahib-plugins": { "source": { "source": "github", "repo": "shahib/shahib" } }
+  },
+  "enabledPlugins": { "instagram-agent@shahib-plugins": true }
+}
